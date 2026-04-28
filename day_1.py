@@ -30,4 +30,12 @@ num = 4
 
 num = 4.0
 
-# String
+# String = str(array of characters, it can consist of a single character as well as multiple)
+
+name = "Devesh"
+# python does not have a "character" datatype so a single character is also considered as a string of length "1"
+
+
+# None = none(it is a none datatype which is used when we don't want to give any datatype to a variable)
+
+num = None
