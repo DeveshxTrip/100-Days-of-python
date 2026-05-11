@@ -6,7 +6,7 @@
 str_1 = "abbebba"
 
 reverse = str_1[::-1]
-
+print(reverse)
 if reverse == str_1:
     print("palindrome")
 else:
