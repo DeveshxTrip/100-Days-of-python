@@ -3,7 +3,7 @@
 # my_str = "Hello World"
 # print(my_str[0:5])
 
-str_1 = "abbebba"
+str_1 = "abb"
 
 reverse = str_1[::-1]
 print(reverse)
