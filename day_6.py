@@ -1,3 +1,7 @@
 Str = "D"
 
-del Str[0]
+a = ["hello", "my", "name", "is", "devesh"]
+
+Str = ",".join(a)
+
+print(Str)
