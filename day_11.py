@@ -17,4 +17,4 @@ print(S2)
 S3 = {"Hello", (1, 2, 4)}
 print(S3)
 
-# print((1, 2, 4) in S3)
+print((1, 2, 4) in S3)
