@@ -27,9 +27,9 @@ for i in range(len(D1["name"])):
 print(D1["name"])
 
 
-# D = {"a": 1, "b": 2}
+D = {"a": 1, "b": 2}
 
-# print(D["c"])
+print(D["c"])
 
 D = {"a": 1, "b": 2}
 
