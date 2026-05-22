@@ -22,4 +22,4 @@ while num > 0:
         num = int(input("Guess the number b/w 1-100: "))
         total_guess += 1
 
-print(f"Total guesses = {total_guess}")
+# print(f"Total guesses = {total_guess}")
