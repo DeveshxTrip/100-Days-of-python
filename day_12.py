@@ -1,7 +1,10 @@
 # dictionary
 
+from sys import getrefcount
 
 D1 = {"name": ["Devesh", "Sara", "Somya", "Ashita"], "Age": 22, "Country": "India"}
+
+a = 6
 
 # print(D1)
 # print(D1.keys())
@@ -29,8 +32,8 @@ print(D1["name"])
 
 D = {"a": 1, "b": 2}
 
-print(D["c"])
 
 D = {"a": 1, "b": 2}
 
-print(D.get("c"))
+
+print(getrefcount(a))
