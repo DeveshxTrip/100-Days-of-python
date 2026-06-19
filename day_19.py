@@ -1,7 +1,7 @@
 import random
 
 
-t = random.randint(1, 20)
+t = random.randint(1, 10)
 while t != 0:
     number = random.randint(1, 20)
     num = random.randint(1, 20)
