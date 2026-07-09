@@ -1,4 +1,5 @@
 # More about "strings" today
+# mic check
 
 # we can use [] brackets to access any element in the string
 
